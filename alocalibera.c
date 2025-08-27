@@ -1,3 +1,7 @@
+// PARA RODAR:
+// cd /c/Users/carme/source/repos/Paradigmas_Programacao_BCCS6
+// gcc ex04_1808.c -o main.exe
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
